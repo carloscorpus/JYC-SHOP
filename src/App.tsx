@@ -3,11 +3,8 @@ import { Button } from "./components/ui/button";
 import {
   Card,
   CardContent,
-  CardDescription,
   CardFooter,
   CardHeader,
-  CardAction,
-  CardTitle,
 } from "./components/ui/card";
 import logo from "@/assets/logo.jpeg";
 import main1 from "@/assets/main1.jpeg";
