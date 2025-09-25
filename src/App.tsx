@@ -130,7 +130,6 @@ function App() {
             <iframe
               className="w-full h-full"
               src="https://www.youtube.com/embed/7x8XAe8IWJI?autoplay=1"
-              frameBorder="0"
               allow="autoplay; encrypted-media"
               allowfullscreen
             ></iframe>
