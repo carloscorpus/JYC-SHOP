@@ -127,12 +127,13 @@ function App() {
         </div>
         <div className="w-full h-screen flex justify-center items-center">
           <div className="w-full h-full max-w-full max-h-full">
-            <iframe
-              className="w-full h-full"
-              src="https://www.youtube.com/embed/7x8XAe8IWJI?autoplay=1"
-              allow="autoplay; encrypted-media"
-              allowfullscreen
-            ></iframe>
+<iframe
+  className="w-full h-full"
+  src="https://www.youtube.com/embed/7x8XAe8IWJI?autoplay=1"
+  allow="autoplay; encrypted-media"
+  allowFullScreen
+></iframe>
+
           </div>
         </div>
         <div className="flex items-center justify-center p-20">
